@@ -57,10 +57,12 @@
                                 <a href="#" class="dropdown-item">Course 3</a>
                             </div>
                         </li>
-                        -->    
+                        -->  
+                        <!--
                          <li class="nav-item active">
                           <a class="nav-link" href="/courses">Courses</a>
-                        </li>     
+                        </li> 
+                         --> 
                         <li class="nav-item active">
                           <a class="nav-link" href="/accreditations">CPD Units</a>
                         </li>                   
